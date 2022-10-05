@@ -16,6 +16,9 @@
     width: 100vw;
     height: 100vw;
     scroll-snap-align: start;
+    
+    padding: 36px;
+    box-sizing: border-box;
 }
 
 .centered {
