@@ -83,3 +83,7 @@ a {
 a:hover {
     color: skyblue;
 }
+
+::selection {
+    background-color: hsla(210deg, 100%, 50%, 42%);
+}
