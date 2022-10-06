@@ -74,3 +74,12 @@ button:hover {
 #navbar a:hover {
     opacity: 0.69;
 }
+
+a {
+    color: royalblue;
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: skyblue;
+}
