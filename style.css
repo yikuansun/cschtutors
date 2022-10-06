@@ -51,3 +51,20 @@ button:hover {
     background-color: #0088FF;
     color: white;
 }
+
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    text-align: center;
+    padding: 10px;
+}
+
+#navbar a {
+    color: white;
+    text-decoration: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: 'Gemunu Libre', sans-serif;
+}
