@@ -77,7 +77,7 @@ button:hover {
 
 a {
     color: royalblue;
-    transition: color 0.2s;
+    transition: color 0.123456789s;
 }
 
 a:hover {
