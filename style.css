@@ -38,9 +38,9 @@ h1, h2, h3, h4, h5, h6 {
 
 button {
     padding: 10px 16px;
-    border: 2px solid #0088FF;
+    border: 2px solid royalblue;
     font-family: Roboto, Arial, sans-serif;
-    color: #0088FF;
+    color: royalblue;
     background-color: white;
     font-weight: bold;
     border-radius: 5px;
@@ -48,7 +48,7 @@ button {
 }
 
 button:hover {
-    background-color: #0088FF;
+    background-color: royalblue;
     color: white;
 }
 
