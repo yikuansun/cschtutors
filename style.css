@@ -84,6 +84,10 @@ a:hover {
     color: skyblue;
 }
 
+a button:hover {
+    cursor: pointer;
+}
+
 ::selection {
     background-color: hsla(210deg, 100%, 50%, 42%);
 }
